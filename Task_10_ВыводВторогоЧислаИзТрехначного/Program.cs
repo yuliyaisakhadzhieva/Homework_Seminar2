@@ -5,7 +5,7 @@
 // 782 -> 8
 // 918 -> 1
 
-Console.WriteLine ("Введите натурально трехзначное число ");
+Console.WriteLine ("Введите натуральное трехзначное число ");
 int x = Convert.ToInt32 (Console.ReadLine ());
 
 int x1 = x / 100;
